@@ -4,6 +4,9 @@
 
 In this project we'll use a package called `bcrypt` to authenticate users. Bcrypt is a package based off the popular bcrypt hashing algorithm. It exposes several functions that we can use to salt, hash, and compare our passwords without exposing the users plain-text password.
 
+<!-- npm install massive@latest -->
+
+
 ## Setup
 
 * `Fork` and `clone` this repository.
